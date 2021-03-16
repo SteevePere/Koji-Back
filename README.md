@@ -15,4 +15,4 @@ Installs dependencies.
 ### 2. Run `npm run start:dev`
 
 Runs the app in the development mode.<br />
-Go to [http://localhost:3000](http://localhost:3000) to access the Swagger Documentation.
+Go to [http://localhost:3000](http://localhost:3000) to access the Swagger Documentation and test the API.
