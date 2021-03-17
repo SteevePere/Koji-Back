@@ -16,4 +16,4 @@ Installs dependencies.
 
 Runs the app in the development mode.<br />
 
-### Go to [http://localhost:3000](http://localhost:3000) to access the Swagger Documentation and test the API.
+### 3. Go to [http://localhost:3000](http://localhost:3000) to access the Swagger Documentation and test the API.
